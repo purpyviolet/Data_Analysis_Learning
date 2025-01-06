@@ -30,7 +30,7 @@ Scipy 是一个强大的科学计算库，包含多种工具箱，广泛应用�
 
 ------
 
-### **3. 优化模块 (`scipy.optimize`)**
+### **==3. 优化模块 (`scipy.optimize`)==**
 
 - 单变量函数优化：
   - `minimize_scalar`，`brent`
@@ -161,28 +161,13 @@ Scipy 是一个强大的科学计算库，包含多种工具箱，广泛应用�
 
 ### **建议学习顺序**
 
-1. 基础模块
-
-   :
-
+1. 基础模块:
    - 先熟悉 `scipy.linalg` 和 `scipy.optimize`。
-
-2. 实用模块
-
-   :
-
+2. 实用模块:
    - 插值 (`scipy.interpolate`)、积分与微分 (`scipy.integrate`)。
-
-3. 高级模块
-
-   :
-
+3. 高级模块:
    - 信号处理 (`scipy.signal`)、稀疏矩阵 (`scipy.sparse`)。
-
-4. 应用模块
-
-   :
-
+4. 应用模块:
    - 图像处理 (`scipy.ndimage`)、图论 (`scipy.sparse.csgraph`)、空间计算 (`scipy.spatial`)。
 
 如需具体的学习计划或代码示例，请告诉我！ 😊
